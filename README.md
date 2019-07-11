@@ -8,7 +8,7 @@ More infos on the device at the [product page](https://www.acer.com/ac/en/US/con
 In the *layouts* folder you can find *Caribou* keyboard layouts for landscape and protrait mode. They only contain layouts for German keyboards, but you can use them as a reference to create your own. 
 Paste these into your */usr/share/caribou/layouts* directory to make them available.
 
-Each folder's name in the *layouts* folder is automatically a layout name for *Gnome*. So if you change these, you have to change they variable values in *rotate-display.sh* as well to make that script work properly. 
+Each folder's name in the *layouts* folder is automatically a layout name for *Gnome*. So if you change these, you have to change the variable values in *rotate-display.sh* as well to make that script work properly. 
 
 
 ## Input Device Fix (idevfix)
