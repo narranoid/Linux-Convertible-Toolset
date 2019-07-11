@@ -1,4 +1,4 @@
-# Linux Convertible Tools
+# Linux Convertible Toolset
 Contains scripts and configuration files supporting *Linux/Ubuntu* systems to deal with a convertible notebook in the *Gnome 3* desktop environment.
 All features are tested with an *Acer Aspire R13* running *Ubuntu 15.10* using *Gnome 3*.
 More infos on the device at the [product page](https://www.acer.com/ac/en/US/content/acerdesign-aspirer13) or on [*Wikipedia*](https://en.wikipedia.org/wiki/Acer_Aspire_laptops#Aspire_R_13).
